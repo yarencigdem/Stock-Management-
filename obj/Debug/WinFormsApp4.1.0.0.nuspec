@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WinFormsApp4</id>
+    <version>1.0.0</version>
+    <authors>WinFormsApp4</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="CrystalDecisions.CrystalReports.Engine" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="CrystalDecisions.Shared" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="CrystalReports.Engine" version="13.0.4003" exclude="Build,Analyzers" />
+        <dependency id="CrystalReports.Shared" version="13.0.4003" exclude="Build,Analyzers" />
+        <dependency id="EPPlus" version="7.3.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Office.Interop.Excel" version="15.0.4795.1001" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Burcu Sebit\source\repos\WinFormsApp4\WinFormsApp4\bin\debug\Debug\net8.0-windows\WinFormsApp4.runtimeconfig.json" target="lib\net8.0-windows7.0\WinFormsApp4.runtimeconfig.json" />
+    <file src="C:\Users\Burcu Sebit\source\repos\WinFormsApp4\WinFormsApp4\bin\debug\Debug\net8.0-windows\WinFormsApp4.dll" target="lib\net8.0-windows7.0\WinFormsApp4.dll" />
+  </files>
+</package>

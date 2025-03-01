@@ -1,0 +1,2 @@
+C:\Users\Burcu Sebit\source\repos\WinFormsApp4\WinFormsApp4\obj\Release\net8.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+C:\Users\Burcu Sebit\source\repos\WinFormsApp4\WinFormsApp4\obj\Release\net8.0-windows\Interop.CrystalActiveXReportViewerLib13.dll
